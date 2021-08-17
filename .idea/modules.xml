@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClosedPR.iml" filepath="$PROJECT_DIR$/.idea/modules/ClosedPR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyClosedPRS.iml" filepath="$PROJECT_DIR$/.idea/modules/MyClosedPRS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyClosedPRS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyClosedPRS.app.iml" />
     </modules>
   </component>
 </project>
