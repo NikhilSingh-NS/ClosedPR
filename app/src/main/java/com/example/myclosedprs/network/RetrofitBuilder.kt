@@ -1,6 +1,6 @@
 package com.example.myclosedprs.network
 
-import com.example.myclosedprs.Constants
+import com.example.myclosedprs.util.Constants
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

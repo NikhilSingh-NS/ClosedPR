@@ -1,4 +1,4 @@
-package com.example.myclosedprs
+package com.example.myclosedprs.util
 
 class Constants {
     companion object {
