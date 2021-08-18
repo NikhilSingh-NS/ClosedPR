@@ -1,6 +1,6 @@
 package com.example.myclosedprs.network
 
-import com.example.myclosedprs.Status
+import com.example.myclosedprs.util.Status
 
 data class BaseResponse<out T>(val status: Status, val data: T?, val msg: String?) {
     companion object {
