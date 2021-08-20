@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName
 
 
 data class PRModel(
-    @SerializedName("body")
+    @SerializedName("title")
     val title: String,
 
     @SerializedName("created_at")
