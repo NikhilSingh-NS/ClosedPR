@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyClosedPRS</string>
+    <string name="created_at">Created at: %s</string>
+    <string name="closed_at">Closed at: %s</string>
+    <string name="title">#%s %s</string>
+    <string name="no_internet">Please connect to internet and try again later!</string>
 </resources>
